@@ -1,0 +1,29 @@
+th div {
+    display: flex;
+    justify-content: space-between;
+}
+thead {
+    background-color: rgb(246,249,252);
+}
+
+.button-badge {
+    background-color: rgb(16,205,239);
+    text-align: center;
+    width: 50px;
+    height: 44px;
+    border-radius: 3px;
+    border: lightgray;
+    margin: 5px;
+
+}
+.button-remove {
+    all: unset;
+    background-color: red;
+    color: #fff;
+    width: 50px;
+    height: 44px;
+    margin: 5px;
+    text-align: center;
+    border-radius: 3px;
+    border: lightgray;
+}
